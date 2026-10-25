@@ -1,6 +1,6 @@
 # Portlane
 
-[![Support Portlane on Ko-fi](https://img.shields.io/badge/Support%20Portlane-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dimuchio)
+[![Support Portlane on Ko-fi](https://img.shields.io/badge/Support%20Portlane-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dimuchio) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dimuchio)
 
 **A free, closed-source FTP, FTPS and SFTP client for macOS.**
 
@@ -34,7 +34,7 @@ This repository contains public product information and usage terms. It does **n
 
 Portlane is free to use for personal and work purposes. Donations are entirely optional and are not required to unlock features or use the application.
 
-If Portlane helps you, you can [support its development on Ko-fi](https://ko-fi.com/dimuchio). Thank you for helping keep the project moving forward.
+If Portlane helps you, you can [support its development on Ko-fi](https://ko-fi.com/dimuchio) or [donate directly via PayPal](https://paypal.me/dimuchio). Thank you for helping keep the project moving forward.
 
 A donation is voluntary support, not a purchase of distribution rights, ownership, a subscription, or a guarantee of future features or support.
 
