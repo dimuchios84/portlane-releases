@@ -1,4 +1,4 @@
-# Portlane
+<h1><img src="PortlaneIcon.png" alt="Portlane app icon" width="72" height="72"> Portlane</h1>
 
 [![Support Portlane on Ko-fi](https://img.shields.io/badge/Support%20Portlane-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dimuchio) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dimuchio)
 
