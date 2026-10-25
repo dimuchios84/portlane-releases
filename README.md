@@ -6,6 +6,8 @@
 
 Browse remote files, transfer them between your Mac and a server, and edit remote files in your preferred editor.
 
+I built Portlane for my own work. I use it in my day-to-day work and test it myself. Your feedback helps me improve it.
+
 ## What Portlane does
 
 - Browse local and remote folders side by side.
@@ -18,9 +20,13 @@ Browse remote files, transfer them between your Mac and a server, and edit remot
 
 ## Downloads
 
-**No public DMG has been published yet.**
+**Portlane 1.0.0 — First Public Release (build 58)**
 
-Official installers will be listed on the [Releases page](https://github.com/dimuchios84/portlane-releases/releases) when available. Each release will specify its supported macOS versions and hardware.
+[**Download Portlane for macOS**](https://github.com/dimuchios84/portlane-releases/releases/download/v1.0.0-preview.1/Portlane-1.0.0-58-macOS-arm64-preview.dmg) · [Release notes and SHA-256](https://github.com/dimuchios84/portlane-releases/releases/tag/v1.0.0-preview.1)
+
+Requires **macOS 26 or later and an Apple Silicon Mac**. Intel Macs are not supported by this installer. New installations start in **English**; switch to Russian in **Portlane → Settings → General → Language**.
+
+**Signing notice:** this build uses an Apple Development certificate. It is not signed with Developer ID and has not been notarized by Apple. macOS may block the first launch. Read the first-launch steps in the release notes or Read Me First.txt inside the DMG before opening it. [Apple explains the per-app Open Anyway option here](https://support.apple.com/102445). Keep Gatekeeper enabled; do not bypass malware or damage warnings.
 
 This repository contains public product information and usage terms. It does **not** contain Portlane's application source code. GitHub's automatically generated “Source code” archives contain only this repository's public files; they are not the app or its source code.
 
