@@ -11,9 +11,9 @@ Browse files on your Mac and server side by side, transfer them, and edit remote
 
 ## Download
 
-[**Download Portlane for macOS**](https://github.com/dimuchios84/portlane-releases/releases/download/v1.0.5/Portlane-1.0.5-67-macOS-arm64-preview.dmg) · [Release notes and SHA-256](https://github.com/dimuchios84/portlane-releases/releases/tag/v1.0.5)
+[**Download Portlane for macOS**](https://github.com/dimuchios84/portlane-releases/releases/download/v1.0.6/Portlane-1.0.6-68-macOS-arm64-preview.dmg) · [Release notes and SHA-256](https://github.com/dimuchios84/portlane-releases/releases/tag/v1.0.6)
 
-**Portlane 1.0.5 · Build 67 · macOS 26+ · Apple Silicon (arm64)**
+**Portlane 1.0.6 · Build 68 · macOS 26+ · Apple Silicon (arm64)**
 
 New installations start in **English**. Switch to Russian in **Portlane → Settings → General → Language**. This installer does not support Intel Macs or earlier macOS versions.
 
